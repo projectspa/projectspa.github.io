@@ -4,7 +4,7 @@
     animation-fill-mode: forwards;
 }
 
-.hide {
+.init {
     opacity: 0;
 }
 
